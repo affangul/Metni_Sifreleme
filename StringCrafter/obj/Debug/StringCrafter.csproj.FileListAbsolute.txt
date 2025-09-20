@@ -1,0 +1,12 @@
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\bin\Debug\StringCrafter.exe.config
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\bin\Debug\StringCrafter.exe
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\bin\Debug\StringCrafter.pdb
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.csproj.AssemblyReference.cache
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.Properties.Resources.resources
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.csproj.GenerateResource.cache
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.csproj.CoreCompileInputs.cache
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.exe
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.pdb
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.Giriş.resources
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.Şifrele.resources
+C:\Users\Affan\Desktop\çalışma\c#\StringCrafter\StringCrafter\obj\Debug\StringCrafter.Çöz.resources
