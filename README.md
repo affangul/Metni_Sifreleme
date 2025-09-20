@@ -15,7 +15,7 @@ Proje .NET Framework üzerine geliştirilmiştir.
 ## Kurulum ve Çalıştırma
 1.Bu depoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/StringCrafter.git
+git clone https://github.com/affangul/StringCrafter.git
 ```
 2.Visual Studio ile StringCrafter.sln dosyasını açın.
 
